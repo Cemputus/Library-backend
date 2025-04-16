@@ -1,0 +1,45 @@
+[
+  {
+    "id": "8675fb30-1ae4-11f0-b04b-5df3c1938b33",
+    "user_id": 5,
+    "name": "mewsigwa moses",
+    "email": "mmwesigwa@gmail.com",
+    "delivery_address": {
+      "street": "Bukerere",
+      "suite": "3A",
+      "city": "Kampala",
+      "zipcode": "985432"
+    },
+    "billing_address": {
+      "street": "Bukerere",
+      "suite": "3A",
+      "city": "Kampala",
+      "zipcode": "985432"
+    },
+    "phone": "+256708165143",
+    "items": [
+      {
+        "id": 17,
+        "name": "The Shadow of Imana: Travels in the Heart of Rwanda",
+        "price": 75000,
+        "quantity": 1
+      },
+      {
+        "id": 18,
+        "name": "The Boy Who Harnessed the Wind",
+        "price": 28000,
+        "quantity": 1
+      },
+      {
+        "id": 19,
+        "name": "Strength in What Remains",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "payment": "card",
+    "date": "2025-04-16T17:02:05.923Z",
+    "total": 148000,
+    "status": "pending"
+  }
+]
